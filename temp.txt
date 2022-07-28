@@ -1,0 +1,13 @@
+<div className="text-base text-gray-200">
+                <span>• Age: 18</span>
+              </div>
+              <div className="text-base text-gray-200 flex flex-col">
+                <span>• Biomedical Informatics (2021-2025)</span>
+                <span className="flex leading-tight">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- University of São Paulo&nbsp; <Student size={22} color="gray"/></span>
+              </div>
+              <div className="text-base text-gray-200 flex flex-col">
+                <span>• Current studies:</span>
+                <span className="flex leading-tight">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- JavaScript&nbsp; <FileJs size={22} color="gray"/> <FileJsx size={22} color="gray"/></span>
+                <span className="flex leading-tight">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- TypeScript&nbsp; <FileTs size={22} color="gray"/> <FileTsx size={22} color="gray"/></span>
+                <span className="flex leading-tight">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- React&nbsp;<Atom size={22} color="gray"/></span>
+              </div>
